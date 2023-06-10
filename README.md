@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bryantoniooo
+- 👀 I’m interested in Hardware Engineering
+- 🌱 I’m currently learning C++, Java, and Phyton
+- 📫 How to reach me 𝗕𝗿𝘆𝗮𝗻#2154
